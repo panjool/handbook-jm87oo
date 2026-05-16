@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://panjool.github.io/handbook-jm87oo/sitemap.xml
